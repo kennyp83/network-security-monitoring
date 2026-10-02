@@ -12,6 +12,9 @@
 
 CIRT can be an individuals or a team of individuals. These are the people who counter digital threats for organizations.
 
+>*Continuous monitoring(CM)*
+
+
 ---
     
 -   Continuous monitoring (CM)
@@ -49,5 +52,5 @@ CIRT can be an individuals or a team of individuals. These are the people who co
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMTE5MzMsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTc1NTY3MDAxNywtMzMyNDU1MzYzXX0=
 -->
