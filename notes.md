@@ -1,8 +1,9 @@
 ==**Chapter 1: Network Security Monitoring Rationale**==
-  *Objective*: This chapter is meant to introduce NSM tell the reader why it matters
-**Definitions from this chapter**
+  *Objective*: This chapter is meant to introduce NSM and tell the reader why it matters.
+**Definitions from this chapter** 
  >*Network Security Monitoring(NSM)*
-- The collection, analysis and escalation. Basically a way to find intruders and do something about them
+- The collection, analysis and escalation. Basically a way to find intruders and do something about them. NSM does noy
+
 >*Computer Incident Response Teams (CIRT)*
 -
 >*Does NSM Prevent Intrusions?*
@@ -46,5 +47,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzczMTQ2MywtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTM5MTQ4OTQ5MSwtMzMyNDU1MzYzXX0=
 -->
