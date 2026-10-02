@@ -1,5 +1,5 @@
-**Chapter 1: Network Security Monitoring Rationale**
-  *Objective***
+==**Chapter 1: Network Security Monitoring Rationale**
+  *Objective*:
 **Definitions from this chapter**
  >*Network Security Monitoring(NSM)*
 - The collection, analysis and escalation. Basically a way to find intruders and do something about them
@@ -46,5 +46,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzODcwNzA1LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTEzMDAxMzk0NDksLTMzMjQ1NTM2M119
 -->
