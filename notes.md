@@ -14,7 +14,7 @@ CIRT can be an individuals or a team of individuals. These are the people who co
 
 >*Continuous monitoring(CM)*
 
-Continuous monitoring is another method of network security. "A cm
+Continuous monitoring is another method of network security. "A CM operation strives to find an organization's computers, identify vulnerabilities and if possible, patch those holes. This is different than NSM in that Cm looks for vulnerabilities in the system
 
 ---
     
@@ -53,5 +53,5 @@ Continuous monitoring is another method of network security. "A cm
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjAxMjcyMjEsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTEzNjg4MjU3OTUsLTMzMjQ1NTM2M119
 -->
