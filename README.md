@@ -1,4 +1,5 @@
-==**Chapter 1: Network Security Monitoring Rationale**==
+**Chapter 1: Network Security Monitoring Rationale**
+
 -
   *Objective*: This chapter is meant to introduce NSM and tell the reader why it matters.
   
@@ -53,5 +54,6 @@ Continuous monitoring is another method of network security. "A CM operation str
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ2NzMxNTJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTcxODE0ODYsLTEwODQ2NzMxNTJdfQ
+==
 -->
