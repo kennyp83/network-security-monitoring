@@ -1,20 +1,14 @@
 **Chapter 1: Network Security Monitoring Rationale **
   
-
+**Definitions from this chapter**
  >*Network Security Monitoring(NSM)*
 - Definition: The collection, analysis and escalation. Basically a way to find intruders and do something about them
+- *Computer Indident Response
 >*Does NSM Prevent Intrusions?*
     
- No, br
+ No, breaches are inevitable, NSM gives you time to detect, respond and contain intruders before they finish whatever it is they came to do.
     
-
--   Breaches are inevitable
-    
-
--   NSM Gives you time to detect, respond and contain intruders before they finish whatever it is they came to do.
-    
-
--   CIRT: Computer Incident Response Teams
+>CIRT: Computer Incident Response Teams
     
 -   Continuous monitoring (CM)
     
@@ -51,5 +45,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyNjcyMzI3LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTk5NjY0MDkxLC0zMzI0NTUzNjNdfQ==
 -->
