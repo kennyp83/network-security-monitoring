@@ -1,15 +1,11 @@
 **Chapter 1: Network Security Monitoring Rationale **
   
 
--->  Network Security Monitoring(NSM)
+ >*Network Security Monitoring(NSM)*
+- Definition: The collection, analysis and escalation. Basically a way to find intruders and do something about them
+>*Does NSM Prevent Intrusions?*
     
-
--   Def: The collection, analysis and escalation. Basically a way to find intruders and do something about them
-    
--   Does NSM Prevent Intrusions?
-    
-
--   No
+ No, br
     
 
 -   Breaches are inevitable
@@ -55,5 +51,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ3OTI5MDksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMjcyNjcyMzI3LC0zMzI0NTUzNjNdfQ==
 -->
