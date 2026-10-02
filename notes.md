@@ -3,7 +3,7 @@
 **Definitions from this chapter** 
  >*Network Security Monitoring(NSM)*
  
- The collection, analysis and escalation of intrusions on a network. Basically a way to find intruders and do something about them. NSM does *not* involve preventing intrusions. 
+ The collection, analysis and escalation of intrusions on a network. Basically a way to find intruders and do something about them. NSM does *not* involve preventing intrusions. When a network is compromised, the intruders "rarely execute their entire mission in the course of a few minutes. 
 
 >*Computer Incident Response Teams (CIRT)*
 -
@@ -48,5 +48,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQwNDA1NjUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMjA3MTgxMzg1NiwtMzMyNDU1MzYzXX0=
 -->
