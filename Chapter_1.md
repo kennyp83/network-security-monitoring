@@ -16,42 +16,10 @@ CIRT can be an individuals or a team of individuals. These are the people who co
 
 Continuous monitoring is another method of network security. "A CM operation strives to find an organization's computers, identify vulnerabilities and if possible, patch those holes". This is different than NSM, Cm looks for vulnerabilities in the system. NSM is looking for adversaries in the system and wants to contain them before they do anything harm.
 
+*More on continuous monitoring*: [link]https://www.nist.gov/publications/search?k=Continuously+Monitoring+&t=&a=&ps=All&n=&d%5Bmin%5D=&d%5Bmax%5D=
+
 ---
-    
--   Continuous monitoring (CM)
-    
-
--   Def: A CM operation attempts to find an organization’s computers, identify vulnerabilities and patch them
-    
--   CM should be a compliment to NSM, not a substitute.
-    
-
--   How NSM is set up
-    
-
--   A CIRT decides to implement an NSM operation
-    
-
-1.  An engineer is asked to configure a specific network switch to export copies to traffic passing through that switch.
-    
-
-1.  DMZ: a network that is conceptually between the internet and external networks.
-    
-
-3.  A physical cable from the network switch to the new NSM server.
-    
-4.  CIRT deploys a dedicated server as an NSM platform, software is configured to analyze the network traffic exported from the cable.
-    
-
-1.  An alternative to the cable is a network tap, this is dedicated hardware for accessing network traffic.
-    
-2.  Net Optics: Company that provides network tap and related products
-    
-
--   When NSM does not work
-    
-
--
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjg0MzM2OV19
+eyJoaXN0b3J5IjpbMTE4Njc2MzMxMywxMzMyODQzMzY5XX0=
 -->
