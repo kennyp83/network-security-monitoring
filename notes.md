@@ -1,5 +1,5 @@
-==**Chapter 1: Network Security Monitoring Rationale**
-  *Objective*:
+==**Chapter 1: Network Security Monitoring Rationale**==
+  *Objective*: This chapter is meant to introduce NSM tell the reader why it matters
 **Definitions from this chapter**
  >*Network Security Monitoring(NSM)*
 - The collection, analysis and escalation. Basically a way to find intruders and do something about them
@@ -46,5 +46,5 @@
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAxMzk0NDksLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbMTg1MzczMTQ2MywtMzMyNDU1MzYzXX0=
 -->
