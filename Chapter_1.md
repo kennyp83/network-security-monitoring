@@ -20,8 +20,10 @@ Continuous monitoring is another method of network security. "A CM operation str
 
 ---
  ### A note on how NSM compares to other approaches
-Firewalls, antivirus, whitelisting, data leakage systems, and digital rights management work by stopping intruders often without the need for human intervention beyond setup. NSM works differently, it focuses on visibility, finding when the network is compromised and stopping them "before the intruder accomplishes his mission. This is more successful in cases where threats 
+Firewalls, antivirus, whitelisting, data leakage systems and digital rights management work by stopping intruders, often without the need for human intervention beyond setup. NSM works differently, it focuses on visibility, finding when the network is compromised and stopping them "before the intruder accomplishes his mission. This is more successful in cases where threats are trying to undetected remain in a system
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDAzNDU4MSwxMTg2NzYzMzEzLDEzMz
-I4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMz
+MyODQzMzY5XX0=
 -->
