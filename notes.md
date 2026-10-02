@@ -6,7 +6,7 @@
 ---
  >*Network Security Monitoring(NSM)*
  
- The collection, analysis and escalation of intrusions on a network. Basically a way to find intruders and do something about them. NSM does *not* involve preventing intrusions. When a network is compromised, the intruders "rarely execute their entire mission in the course of a few minutes. NSM gives you the opportunity to "detect, respond to, and contain intruders".
+ The collection, analysis and escalation of intrusions on a network. NSM is a method of network security. Basically a way to find intruders and do something about them. NSM does *not* involve preventing intrusions. When a network is compromised, the intruders "rarely execute their entire mission in the course of a few minutes". NSM gives you the opportunity to "detect, respond to, and contain intruders".
 
 >*Computer Incident Response Teams (CIRT)*
 
@@ -14,6 +14,7 @@ CIRT can be an individuals or a team of individuals. These are the people who co
 
 >*Continuous monitoring(CM)*
 
+Continuous monitoring is another method of network security. "A cm
 
 ---
     
@@ -52,5 +53,5 @@ CIRT can be an individuals or a team of individuals. These are the people who co
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTY3MDAxNywtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTExMjAxMjcyMjEsLTMzMjQ1NTM2M119
 -->
