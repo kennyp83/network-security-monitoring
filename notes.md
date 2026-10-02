@@ -7,7 +7,7 @@
 
 >*Computer Incident Response Teams (CIRT)*
 
-CIRT can be an 
+CIRT can be an individuals or a team of individuals. These are the people who counter digital threats for organ
 >*Does NSM Prevent Intrusions?*
     
  No, breaches are inevitable, NSM gives you time to detect, respond and contain intruders before they finish whatever it is they came to do.
@@ -49,5 +49,5 @@ CIRT can be an
 
 -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTcwODU4NywtMzMyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbLTE5MTMwNjMwMjMsLTMzMjQ1NTM2M119
 -->
