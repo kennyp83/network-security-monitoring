@@ -28,11 +28,12 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 ### full content data
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
-_Here is a generic example of a full content data using the tool TCP dump_
+_Here is a generic example of a full content data using the tool TCP dump. Note tcpdump is a unix/linux tool only, no windows!_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMT
-UwMzQ5NzAsMTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3
-NTg1NywxMTg2NzYzMzEzLDEzMzI4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbOTg3NzkwOTM0LC0xNzIyOTU3NTUwLDE4NT
+E2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0NjIzMTIy
+OTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQzMzY5XX
+0=
 -->
