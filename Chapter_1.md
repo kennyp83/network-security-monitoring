@@ -39,10 +39,11 @@ _Here is a generic example of a full content data using the tool tshark._
     7 0.353568800 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 
 ```
 *A natural question: My god, what am I looking at right now?*
-* Lines 1-3 is a 3-way TCP handshake, unsure what that
+* Lines 1-3: 3-way TCP handshake, unsure what that is? GeeksforGeeks does a great job explaining:https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5MjY5OTM5LC00NzE3MDc5Niw5ODc3OT
-A5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAs
-MTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMT
-g2NzYzMzEzLDEzMzI4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTE1NjY5NjgzNzMsLTQ3MTcwNzk2LDk4Nz
+c5MDkzNCwtMTcyMjk1NzU1MCwxODUxNjcyNjAwLDMxNTAzNDk3
+MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1ODU3LD
+ExODY3NjMzMTMsMTMzMjg0MzM2OV19
 -->
