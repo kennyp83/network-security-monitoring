@@ -26,9 +26,10 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 >Below are the seven types of data collected by a CIRT professionals using NSM. 
 
 ### full content data
--Full content data is a *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the d
+- An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODExODA0MSwxMzEzNzQ3NjA3LC0xND
-YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
-MzM2OV19
+eyJoaXN0b3J5IjpbMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0Nj
+IzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQz
+MzY5XX0=
 -->
