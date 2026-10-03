@@ -25,9 +25,9 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 ## NSM's collected Data.
 >Below are the seven types of data collected by a CIRT professionals using NSM.
  
-<p align="center" style="bold">
-### full content data
-</p>
+<h2 align="center" style="bold">
+ 1. full content data
+</h2>
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
 **Part 1: inspecting the summery**
@@ -51,8 +51,8 @@ _Here is a generic example of a full content data using the tool tshark. The too
 * **Line 6:** The requested server sends an HTTPS OK, this includes the "HTML payload"/ contents of the website. notice the 411, this is the number of bytes. It is larger than the other lines because it includes the payload.
 * **Line 7:** The client's computer acknowledges(ACK) that the payload is received.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTE4OTU3LC02MjI1MTUzNzEsLTQ3MT
-cwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1MCwxODUxNjcyNjAw
-LDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xOD
-Q1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0MzM2OV19
+eyJoaXN0b3J5IjpbLTEyNDU4MjQ3MywtNjIyNTE1MzcxLC00Nz
+E3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYw
+MCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMT
+g0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
