@@ -28,8 +28,9 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 ### full content data
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
+_Here is a generic example of a TCP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0Nj
-IzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQz
-MzY5XX0=
+eyJoaXN0b3J5IjpbMTk0MDI5NjIwOCwzMTUwMzQ5NzAsMTMxMz
+c0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYz
+MzEzLDEzMzI4NDMzNjldfQ==
 -->
