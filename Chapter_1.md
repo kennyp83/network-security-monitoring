@@ -43,10 +43,11 @@ _Here is a generic example of a full content data using the tool tshark._
 *TLDR*
 	*  In networking, the requesting client is the very first packet sent. With that in mind when looking at the first packet, you can be sure that the IP of the client visiting the website is ```10.111.72.247```.
 	*  the arrow, ->, on this line represents the flow of traffic, the traffic is flowing from the clients IP to ```217.160.0.187```, with this information I know that that IP belongs to the web server that the client is visiting.
-	* **Line 4** A T
+* **Line 4:** A HTTP GET request asking the server for it's default webpage.
+* **Line 5:** The server responds to line 4 with a HTTP OK
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NTg3MjEyLC00NzE3MDc5Niw5ODc3OT
-A5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAs
-MTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMT
-g2NzYzMzEzLDEzMzI4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTg4MjE5NDkzNSwtNDcxNzA3OTYsOTg3Nz
+kwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcw
+LDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMT
+E4Njc2MzMxMywxMzMyODQzMzY5XX0=
 -->
