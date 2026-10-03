@@ -22,12 +22,13 @@ Continuous monitoring is another method of network security. "A CM operation str
  ### A note on how NSM compares to other approaches
 Firewalls, antivirus, whitelisting, data leakage systems and digital rights management work by stopping intruders, often without the need for human intervention beyond setup. NSM works differently, it focuses on visibility, finding when the network is compromised and stopping them "before the intruder accomplishes his mission". This is more successful in cases where threats are trying to undetected remain in a system
 
-###  NSM collect?
-NSM data can include, full content, extracted content, session data, transaction data, statistical data, metadata and alert data. 
+### NSM's collected Data.
+>NSM data can include, full content, extracted content, session data, transaction data, statistical data, metadata and alert data. 
 
+## full content data
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwOTg4ODg5LDEzMTM3NDc2MDcsLTE0Nj
-IzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQz
-MzY5XX0=
+eyJoaXN0b3J5IjpbLTMyODgzNDk3OSwxMzEzNzQ3NjA3LC0xND
+YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
+MzM2OV19
 -->
