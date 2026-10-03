@@ -29,9 +29,15 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
 _Here is a generic example of a full content data using the tool TCP dump_
-12:34:56.789001 IP 192.168.1.10.52344 > 93.184.216.34.80: Flags [S], seq 1234567890, win 65535, options [mss 1460,sackOK,TS val 12345 ecr 0,nop,wscale 7], length 0 12:34:56.789502 IP 93.184.216.34.80 > 192.168.1.10.52344: Flags [S.], seq 987654321, ack 1234567891, win 29200, options [mss 1400,sackOK,TS val 56789 ecr 12345,nop,wscale 7], length 0 12:34:56.790003 IP 192.168.1.10.52344 > 93.184.216.34.80: Flags [.], ack 1, win 512, length 0 12:34:56.790504 IP 192.168.1.10.52344 > 93.184.216.34.80: Flags [P.], seq 1:122, ack 1, win 512, length 121
+
+09:25:31.100123 IP 192.168.56.101.45678 > 192.168.56.102.80: Flags [S], seq 1234567890, win 29200, options [mss 1460,sackOK,TS val 12345 ecr 0,nop,wscale 7], length 0
+* 
+
+09:25:31.101456 IP 192.168.56.102.80 > 192.168.56.101.45678: Flags [S.], seq 987654321, ack 1234567891, win 28960, options [mss 1460,sackOK,TS val 98765 ecr 12345,nop,wscale 7], length 0
+
+09:25:31.101567 IP 192.168.56.101.45678 > 192.168.56.102.80: Flags [.], ack 987654322, win 229, options [nop,nop,TS val 12346 ecr 98765], length 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMz
-c0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYz
-MzEzLDEzMzI4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbMjA1NTYxNzE3OCwxODUxNjcyNjAwLDMxNT
+AzNDk3MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1
+ODU3LDExODY3NjMzMTMsMTMzMjg0MzM2OV19
 -->
