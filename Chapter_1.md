@@ -30,14 +30,9 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 
 _Here is a generic example of a full content data using the tool TCP dump_
 
-09:25:31.100123 IP 192.168.56.101.45678 > 192.168.56.102.80: Flags [S], seq 1234567890, win 29200, options [mss 1460,sackOK,TS val 12345 ecr 0,nop,wscale 7], length 0
-* 
 
-09:25:31.101456 IP 192.168.56.102.80 > 192.168.56.101.45678: Flags [S.], seq 987654321, ack 1234567891, win 28960, options [mss 1460,sackOK,TS val 98765 ecr 12345,nop,wscale 7], length 0
-
-09:25:31.101567 IP 192.168.56.101.45678 > 192.168.56.102.80: Flags [.], ack 987654322, win 229, options [nop,nop,TS val 12346 ecr 98765], length 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTYxNzE3OCwxODUxNjcyNjAwLDMxNT
-AzNDk3MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1
-ODU3LDExODY3NjMzMTMsMTMzMjg0MzM2OV19
+eyJoaXN0b3J5IjpbLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMT
+UwMzQ5NzAsMTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3
+NTg1NywxMTg2NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
