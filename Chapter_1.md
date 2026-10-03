@@ -27,8 +27,9 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 
 ### full content data
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
-- **Part 1: inspected the summery**
-_Here is a generic example of a full content data using the tool tshark._
+
+**Part 1: inspecting the summery**
+_Here is a generic example of a full content data using the tool tshark. The tool you use will depend on your machine. If Unix/Linux, use tcpdump, if you are on windows use wireshark's tshark._
 ```
     1 0.000000000 10.111.72.247 → 217.160.0.187 TCP 66 63091 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
     2 0.145644600 217.160.0.187 → 10.111.72.247 TCP 66 80 → 63091 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1250 SACK_PERM WS=4096
@@ -48,8 +49,8 @@ _Here is a generic example of a full content data using the tool tshark._
 * **Line 6:** The requested server sends an HTTPS OK, this includes the "HTML payload"/ contents of the website. notice the 411, this is the number of bytes. It is larger than the other lines because it includes the payload.
 * **Line 7:** The client's computer acknowledges(ACK) that the payload is received.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjI3OTIwNzgsLTYyMjUxNTM3MSwtND
-cxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2
-MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLT
-E4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQzMzY5XX0=
+eyJoaXN0b3J5IjpbLTgxODM4NDI5MiwtNjIyNTE1MzcxLC00Nz
+E3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYw
+MCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMT
+g0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
