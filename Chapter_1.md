@@ -28,12 +28,24 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 ### full content data
 - An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
-_Here is a generic example of a full content data using the tool TCP dump. Note tcpdump is a unix/linux tool only, no windows!_
+_Here is a generic example of a full content data using the tool tshark._
+```
+    1 0.000000000 10.111.72.247 → 217.160.0.187 TCP 66 63091 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
+    2 0.145644600 217.160.0.187 → 10.111.72.247 TCP 66 80 → 63091 [SYN, ACK] Seq=0 Ack=1 Win=65535 Len=0 MSS=1250 SACK_PERM WS=4096
+    3 0.145788900 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 [ACK] Seq=1 Ack=1 Win=65280 Len=0
+    4 0.146494000 10.111.72.247 → 217.160.0.187 HTTP 212 GET / HTTP/1.1
+    5 0.293101100 217.160.0.187 → 10.111.72.247 TCP 54 80 → 63091 [ACK] Seq=1 Ack=159 Win=69632 Len=0
+    6 0.306813800 217.160.0.187 → 10.111.72.247 HTTP 411 HTTP/1.1 200 OK  (text/html)
+    7 0.353568800 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 [ACK] Seq=159 Ack=358 Win=65024 Len=0
+    8 75.304197800 217.160.0.187 → 10.111.72.247 TCP 54 80 → 63091 [FIN, ACK] Seq=358 Ack=159 Win=69632 Len=0
+    9 75.304283100 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 [ACK] Seq=159 Ack=359 Win=65024 Len=0
+   10 100.340062000 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 [FIN, ACK] Seq=159 Ack=359 Win=65024 Len=0
+   11 100.486935300 217.160.0.187 → 10.111.72.247 TCP 54 80 → 63091 [RST] Seq=359 Win=0 Len=0
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NzkwOTM0LC0xNzIyOTU3NTUwLDE4NT
-E2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0NjIzMTIy
-OTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQzMzY5XX
-0=
+eyJoaXN0b3J5IjpbMTEyNTY3NjEzNiw5ODc3OTA5MzQsLTE3Mj
+I5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYw
+NywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLD
+EzMzI4NDMzNjldfQ==
 -->
