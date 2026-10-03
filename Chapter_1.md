@@ -40,9 +40,10 @@ _Here is a generic example of a full content data using the tool tshark._
 ```
 *My god, what am I looking at right now?*
 * **Lines 1-3:** 3-way TCP handshake, unsure what that is? GeeksforGeeks does a great job explaining:https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/
-	* TLDR: In networking, the requesting client is the very first packet sent. With that in mind when looking at the first packet, you can be sure that the IP of the client visiting the website is ```10.111.72.247```, 
+	* TLDR: In networking, the requesting client is the very first packet sent. With that in mind when looking at the first packet, you can be sure that the IP of the client visiting the website is ```10.111.72.247```.
+	*  the arrow, ->, on this line represents the flow of traffic, the traffic is flowing from the clients IP to 217.160.0.187, with this information I know that that IP belongs to the web server 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjgyNjIzOSwtNDcxNzA3OTYsOTg3Nz
+eyJoaXN0b3J5IjpbMTA3MDYyMTM1NSwtNDcxNzA3OTYsOTg3Nz
 kwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcw
 LDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMT
 E4Njc2MzMxMywxMzMyODQzMzY5XX0=
