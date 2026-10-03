@@ -45,10 +45,10 @@ _Here is a generic example of a full content data using the tool tshark._
 	*  the arrow, ->, on this line represents the flow of traffic, the traffic is flowing from the clients IP to ```217.160.0.187```, with this information I know that that IP belongs to the web server that the client is visiting.
 * **Line 4:** A HTTP GET request asking the server for it's default webpage.
 * **Line 5:** The server responds to line 4 with a HTTP 200 OK.
-* **Line 6 & 7:** Acknolagements that the data was received.
+* **Line 6 & 7:** Acknowledgements that the data was received.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU1NTU2OTAsLTQ3MTcwNzk2LDk4Nz
-c5MDkzNCwtMTcyMjk1NzU1MCwxODUxNjcyNjAwLDMxNTAzNDk3
-MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1ODU3LD
-ExODY3NjMzMTMsMTMzMjg0MzM2OV19
+eyJoaXN0b3J5IjpbLTYyMjUxNTM3MSwtNDcxNzA3OTYsOTg3Nz
+kwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcw
+LDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMT
+E4Njc2MzMxMywxMzMyODQzMzY5XX0=
 -->
