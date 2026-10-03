@@ -38,10 +38,11 @@ _Here is a generic example of a full content data using the tool tshark._
     6 0.306813800 217.160.0.187 → 10.111.72.247 HTTP 411 HTTP/1.1 200 OK  (text/html)
     7 0.353568800 10.111.72.247 → 217.160.0.187 TCP 54 63091 → 80 
 ```
-*Y: What am I looking at right now
+*A natural question: My god, what am I looking at right now?*
+* Lines 1-3 is a 3-way TCP handshake, unsure what that
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzYzMjMxMiwtNDcxNzA3OTYsOTg3Nz
-kwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcw
-LDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMT
-E4Njc2MzMxMywxMzMyODQzMzY5XX0=
+eyJoaXN0b3J5IjpbOTk5MjY5OTM5LC00NzE3MDc5Niw5ODc3OT
+A5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAs
+MTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMT
+g2NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
