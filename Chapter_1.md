@@ -44,11 +44,11 @@ _Here is a generic example of a full content data using the tool tshark._
 	*  In networking, the requesting client is the very first packet sent. With that in mind when looking at the first packet, you can be sure that the IP of the client visiting the website is ```10.111.72.247```.
 	*  the arrow, ->, on this line represents the flow of traffic, the traffic is flowing from the clients IP to ```217.160.0.187```, with this information I know that that IP belongs to the web server that the client is visiting.
 * **Line 4:** A HTTP GET request asking the server for it's default webpage.
-* **Line 5:** The requested server acknowledges(AC the get request.
+* **Line 5:** The requested server acknowledges(ACK) the get request.
 * **Line 6:** The requested server sends an HTTPS OK, this includes the "HTML payload"/ contents of the website. notice the 411, this is the number of bytes. It is larger than the other lines because it includes the payload.
-* **Line 7:**
+* **Line 7:** The client's computer acknowledges(ACK) that the payload is received.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjkyNzUxMiwtNjIyNTE1MzcxLC00Nz
+eyJoaXN0b3J5IjpbMTg3NzUzMDE3OSwtNjIyNTE1MzcxLC00Nz
 E3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYw
 MCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMT
 g0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4NDMzNjldfQ==
