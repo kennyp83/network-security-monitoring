@@ -75,11 +75,13 @@ _Here is a generic example of a full content data using the tool tshark. The too
  Session Data
 </h3>
 
-**Definition:** The focus of session data is the "conversation" between two computers, more specifically: who spoke, when and how. This can be
+**Definition:** The focus of session data is the "conversation" between two computers, more specifically: who spoke, when and how. This can be but is not limited to, timestamps, source IP, source port, destination IP, destination port, protocol, application bytes sent and others. 
+
+- *note:* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODc3ODcwMiwtMTAxNDQzNDI2OCwtNj
-IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
-NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
-Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
-NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTE5MzMwNTI5OTQsLTEwMTQ0MzQyNjgsLT
+YyMjUxNTM3MSwtNDcxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3
+NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLT
+E0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMy
+ODQzMzY5XX0=
 -->
