@@ -114,9 +114,14 @@ _Here is a generic example of a full content data using the tool tshark. The too
  Alert Data
 </h3>
 
-**Definition:** If you are using a tool to monitor traffic 
+**Definition:** If you are using a tool to monitor traffic on a network, and it gets alerted to something suspicious, the associated data collected is alert data.
+
+-Tools for watching and interpreting network traffic:
+-	Snort
+	-	
+-	Suricata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTM4NDM3NSwtMTAxMjQ5NjI3MSwtMT
+eyJoaXN0b3J5IjpbMTIwOTY1NjI0OSwtMTAxMjQ5NjI3MSwtMT
 AxNDQzNDI2OCwtNjIyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5
 MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMT
 MxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2
