@@ -104,11 +104,11 @@ _Here is a generic example of a full content data using the tool tshark. The too
  Meta-Data
 </h3>
 
-This one is pretty well known, it is
+**Definition:** This one is pretty well known, it is the data about the data. For example when looking at an IP address, the meta data would be who owns the IP
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYxNTA1NjksLTEwMTI0OTYyNzEsLT
-EwMTQ0MzQyNjgsLTYyMjUxNTM3MSwtNDcxNzA3OTYsOTg3Nzkw
-OTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLD
-EzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4
-Njc2MzMxMywxMzMyODQzMzY5XX0=
+eyJoaXN0b3J5IjpbMTUyNTMwNDU2MSwtMTAxMjQ5NjI3MSwtMT
+AxNDQzNDI2OCwtNjIyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5
+MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMT
+MxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2
+NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
