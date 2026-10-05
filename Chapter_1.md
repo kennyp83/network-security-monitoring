@@ -90,8 +90,8 @@ _Here is a generic example of a full content data using the tool tshark. The too
 
 **Definition:** The requests and replies between two network devices. Transaction data is a nice middle ground between session data and full content data. It is not as detailed as full content, but not as dense as session data.
 
--  Tools: Zeek can be used here to render transaction data.
-- 
+-  Zeek can be used here to render transaction data.
+
 <h3 align="center" style="bold">
  Statistical Data
 </h3>
@@ -122,9 +122,10 @@ _Here is a generic example of a full content data using the tool tshark. The too
 -	Suricata
 	-	https://suricata.io/
 
-<h1>This concludes the major information covered</h1>
+<h1>This concludes major information covered in chapter 1.</h1>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjU3MTQxNiwtNjUxMzYwNjk1LC0xMD
+eyJoaXN0b3J5IjpbMTYzMzM5MTkxNCwtNjUxMzYwNjk1LC0xMD
 EyNDk2MjcxLC0xMDE0NDM0MjY4LC02MjI1MTUzNzEsLTQ3MTcw
 Nzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1MCwxODUxNjcyNjAwLD
 MxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1
