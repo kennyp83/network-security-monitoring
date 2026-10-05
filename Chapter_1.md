@@ -69,12 +69,12 @@ _Here is a generic example of a full content data using the tool tshark. The too
 - *note:*  Like fill content data, www.wireshark.org is going to be your best friend for viewing this content.
 
 - Another tool you **will** find useful is Xplico, www.xplico.org.
-	- Xplico allows analysts to *attempt* to reconstruct 
+	- Xplico allows analysts to *attempt* to reconstruct a web page after it's content is captured in a monitored network.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDI2OTQ0MCwtMTAxNDQzNDI2OCwtNj
-IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
-NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
-Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
-NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTE2ODM1NDgzODMsLTEwMTQ0MzQyNjgsLT
+YyMjUxNTM3MSwtNDcxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3
+NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLT
+E0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMy
+ODQzMzY5XX0=
 -->
