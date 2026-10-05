@@ -87,11 +87,11 @@ _Here is a generic example of a full content data using the tool tshark. The too
 <h3 align="center" style="bold">
  Transaction Data
 </h3>
-**Definition:** The requests and replies between two network devices. Transaction data is a nice middle gro
+**Definition:** The requests and replies between two network devices. Transaction data is a nice middle ground between session data and full content data. It is not as detailed as full content, but not as dense as session data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODIwMDMwMiwtMTAxMjQ5NjI3MSwtMT
-AxNDQzNDI2OCwtNjIyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5
-MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMT
-MxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2
-NzYzMzEzLDEzMzI4NDMzNjldfQ==
+eyJoaXN0b3J5IjpbLTQ4NjM2MTExLC0xMDEyNDk2MjcxLC0xMD
+E0NDM0MjY4LC02MjI1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkz
+NCwtMTcyMjk1NzU1MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMz
+EzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3
+NjMzMTMsMTMzMjg0MzM2OV19
 -->
