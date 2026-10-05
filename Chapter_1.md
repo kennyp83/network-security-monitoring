@@ -32,6 +32,9 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 **Definition:** An *unfiltered* log of all information crossing a network. CIRTs usually review this data in two parts. Part one is looking at a summery of the data, part two is inspecting individual packets.
 
 **Part 1: inspecting the summery**
+
+>**Full Content Data**
+
 _Here is a generic example of a full content data using the tool tshark. The tool you use will depend on your machine. If Unix/Linux, use tcpdump, if you are on windows use wireshark's tshark._
 ```
     1 0.000000000 10.111.72.247 → 217.160.0.187 TCP 66 63091 → 80 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 WS=256 SACK_PERM
@@ -55,11 +58,13 @@ _Here is a generic example of a full content data using the tool tshark. The too
 **Part 2: inspecting Packets**
 
 - Once someone on a CIRT team has identified a packet they want to get more information on, they can inspect it closer. The above example shows only headers. Once a packet is looked inspected you should be able to view everything available in the headers(MAC addresses, IP's, etc.), along with GET requests, user agent and some HTTP headers.
-	- Use a graphical tool like www.wireshark.org to view full content 
+	- If you want more info on how to actually capture and inspect full content, visit: www.wireshark.org . 
+
+>****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODg5MDE0LC0xMDE0NDM0MjY4LC02Mj
-I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
-MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
-YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
-MzM2OV19
+eyJoaXN0b3J5IjpbLTE2NjEyMDk2OCwtMTAxNDQzNDI2OCwtNj
+IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
+NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
+Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
+NDMzNjldfQ==
 -->
