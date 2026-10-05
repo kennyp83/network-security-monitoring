@@ -80,12 +80,13 @@ _Here is a generic example of a full content data using the tool tshark. The too
 - *note:* This data can be seen in full content as well. Session data is valuable if memory is scarce.
 - Tools:  If you want to view session data you have a few options for tools;
 	- Argus 
-		- www.qosient.com
-		- 
+		- https://qosient.com/argus/faq.shtml
+	- Zeek(formerly known as Bro)
+		- https://zeek.org/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI0OTYyNzEsLTEwMTQ0MzQyNjgsLT
-YyMjUxNTM3MSwtNDcxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3
-NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLT
-E0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMy
-ODQzMzY5XX0=
+eyJoaXN0b3J5IjpbLTE0MTU0NDgwNzksLTEwMTI0OTYyNzEsLT
+EwMTQ0MzQyNjgsLTYyMjUxNTM3MSwtNDcxNzA3OTYsOTg3Nzkw
+OTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLD
+EzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4
+Njc2MzMxMywxMzMyODQzMzY5XX0=
 -->
