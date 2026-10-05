@@ -64,11 +64,11 @@ _Here is a generic example of a full content data using the tool tshark. The too
  Extracted Content Data
 </h3>
 
-**Definition:** Extracted content 
+**Definition:** High level data transferred between computers. For example, files, images and other media. Unlike full content data, high level data does not focus on MAC addresses or IP.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTM0MDM2LC0xMDE0NDM0MjY4LC02Mj
-I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
-MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
-YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
-MzM2OV19
+eyJoaXN0b3J5IjpbMTMwMjc5NzI1MiwtMTAxNDQzNDI2OCwtNj
+IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
+NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
+Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
+NDMzNjldfQ==
 -->
