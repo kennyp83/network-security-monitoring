@@ -54,9 +54,10 @@ _Here is a generic example of a full content data using the tool tshark. The too
 
 **Part 2: inspecting Packets**
 
-- Once someone on a CIRT team has identified a packet they want to get more information on, they can inspect it closer. The above example shows only headers. Once a packet is looked inspected you should be able to view everything available in the headers(MAC addresses, IP's, etc.), along with GET requests, user agent, some HT
+- Once someone on a CIRT team has identified a packet they want to get more information on, they can inspect it closer. The above example shows only headers. Once a packet is looked inspected you should be able to view everything available in the headers(MAC addresses, IP's, etc.), along with GET requests, user agent and some HTTP headers.
+	- Use a graphical tool like www.wireshark.org to view full content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NzAxNjI1LC0xMDE0NDM0MjY4LC02Mj
+eyJoaXN0b3J5IjpbMTIzODg5MDE0LC0xMDE0NDM0MjY4LC02Mj
 I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
 MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
 YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
