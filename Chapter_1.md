@@ -33,7 +33,7 @@ Firewalls, antivirus, whitelisting, data leakage systems and digital rights mana
 
 **Part 1: inspecting the summery**
 
->**Full Content Data**
+
 
 _Here is a generic example of a full content data using the tool tshark. The tool you use will depend on your machine. If Unix/Linux, use tcpdump, if you are on windows use wireshark's tshark._
 ```
@@ -60,11 +60,15 @@ _Here is a generic example of a full content data using the tool tshark. The too
 - Once someone on a CIRT team has identified a packet they want to get more information on, they can inspect it closer. The above example shows only headers. Once a packet is looked inspected you should be able to view everything available in the headers(MAC addresses, IP's, etc.), along with GET requests, user agent and some HTTP headers.
 	- If you want more info on how to actually capture and inspect full content, visit: www.wireshark.org . 
 
->****
+<h3 align="center" style="bold">
+ Extracted Content Data
+</h3>
+
+**Definition:** Extracted content 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEyMDk2OCwtMTAxNDQzNDI2OCwtNj
-IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
-NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
-Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
-NDMzNjldfQ==
+eyJoaXN0b3J5IjpbMjY3NTM0MDM2LC0xMDE0NDM0MjY4LC02Mj
+I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
+MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
+YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
+MzM2OV19
 -->
