@@ -71,10 +71,15 @@ _Here is a generic example of a full content data using the tool tshark. The too
 - Another tool you **will** find useful is Xplico, www.xplico.org.
 	- Xplico allows analysts to *attempt* to reconstruct a web page after it's content is captured in a monitored network.
 
+<h3 align="center" style="bold">
+ Session Data
+</h3>
+
+**Definition:** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM1NDgzODMsLTEwMTQ0MzQyNjgsLT
-YyMjUxNTM3MSwtNDcxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3
-NTUwLDE4NTE2NzI2MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLT
-E0NjIzMTIyOTAsLTE4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMy
-ODQzMzY5XX0=
+eyJoaXN0b3J5IjpbNzY4MTAxOTM5LC0xMDE0NDM0MjY4LC02Mj
+I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
+MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
+YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
+MzM2OV19
 -->
