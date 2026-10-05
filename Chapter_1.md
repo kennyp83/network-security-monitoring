@@ -65,8 +65,12 @@ _Here is a generic example of a full content data using the tool tshark. The too
 </h3>
 
 **Definition:** High level data transferred between computers. For example, files, images and other media. Unlike full content data, high level data does not focus on MAC addresses or IP.
+
+- *note:*  Like fill content data, www.wireshark.org is going to be your best friend for viewing this content.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjc5NzI1MiwtMTAxNDQzNDI2OCwtNj
+eyJoaXN0b3J5IjpbLTEzODQyNTE2NywtMTAxNDQzNDI2OCwtNj
 IyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5MzQsLTE3MjI5NTc1
 NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMTMxMzc0NzYwNywtMT
 Q2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2NzYzMzEzLDEzMzI4
