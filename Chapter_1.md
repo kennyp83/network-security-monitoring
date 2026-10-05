@@ -78,17 +78,15 @@ _Here is a generic example of a full content data using the tool tshark. The too
 **Definition:** The focus of session data is the "conversation" between two computers, more specifically: who spoke, when and how. This can be but is not limited to, timestamps, source IP, source port, destination IP, destination port, protocol, application bytes sent and others. 
 
 - *note:* This data can be seen in full content as well. Session data is valuable if memory is scarce.
-- Tools:  If you want to view session data you have a few options for tools;
+- Tools:  If you want to view session data, here are a few options for tools;
 	- Argus 
 		- https://qosient.com/argus/faq.shtml
 	- Zeek(formerly known as Bro)
 		- https://zeek.org/
-	- Sguil
-		- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTE2MTk5LC0xMDEyNDk2MjcxLC0xMD
-E0NDM0MjY4LC02MjI1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkz
-NCwtMTcyMjk1NzU1MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMz
-EzNzQ3NjA3LC0xNDYyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3
-NjMzMTMsMTMzMjg0MzM2OV19
+eyJoaXN0b3J5IjpbLTgxNzIzODU0NiwtMTAxMjQ5NjI3MSwtMT
+AxNDQzNDI2OCwtNjIyNTE1MzcxLC00NzE3MDc5Niw5ODc3OTA5
+MzQsLTE3MjI5NTc1NTAsMTg1MTY3MjYwMCwzMTUwMzQ5NzAsMT
+MxMzc0NzYwNywtMTQ2MjMxMjI5MCwtMTg0NTI3NTg1NywxMTg2
+NzYzMzEzLDEzMzI4NDMzNjldfQ==
 -->
