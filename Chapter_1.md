@@ -54,9 +54,11 @@ _Here is a generic example of a full content data using the tool tshark. The too
 
 **Part 2: inspecting Packets**
 
+- Once CIRT
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ0MzQyNjgsLTYyMjUxNTM3MSwtND
-cxNzA3OTYsOTg3NzkwOTM0LC0xNzIyOTU3NTUwLDE4NTE2NzI2
-MDAsMzE1MDM0OTcwLDEzMTM3NDc2MDcsLTE0NjIzMTIyOTAsLT
-E4NDUyNzU4NTcsMTE4Njc2MzMxMywxMzMyODQzMzY5XX0=
+eyJoaXN0b3J5IjpbMjQ5Mjg0NzgyLC0xMDE0NDM0MjY4LC02Mj
+I1MTUzNzEsLTQ3MTcwNzk2LDk4Nzc5MDkzNCwtMTcyMjk1NzU1
+MCwxODUxNjcyNjAwLDMxNTAzNDk3MCwxMzEzNzQ3NjA3LC0xND
+YyMzEyMjkwLC0xODQ1Mjc1ODU3LDExODY3NjMzMTMsMTMzMjg0
+MzM2OV19
 -->
